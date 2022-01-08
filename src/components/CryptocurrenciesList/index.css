@@ -24,3 +24,10 @@
 .background-list {
   background-color: #092e33;
 }
+.table-style {
+  border: solid;
+  border-color: #00e7ff;
+  border-radius: 10px;
+  border-width: 3px;
+  padding-left: 0px;
+}

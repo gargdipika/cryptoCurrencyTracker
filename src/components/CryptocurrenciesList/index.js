@@ -47,7 +47,7 @@ class CryptocurrenciesList extends Component {
               alt="cryptocurrency"
               src="https://assets.ccbp.in/frontend/react-js/cryptocurrency-bg.png"
             />
-            <ul>
+            <ul className="table-style">
               <li className="currency-item-container background-list">
                 <p className="currency-name">Coin Type</p>
                 <div className="row-container">
