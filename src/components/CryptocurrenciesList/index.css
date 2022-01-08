@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.background-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.inner-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.crypto-topic {
+  color: #00e7ff;
+}
+.crypto-image {
+  width: 60vw;
+}
+.background-list {
+  background-color: #092e33;
+}
